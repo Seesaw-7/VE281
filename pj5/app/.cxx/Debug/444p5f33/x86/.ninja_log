@@ -1,0 +1,12 @@
+# ninja log v5
+3	2192	1659865915	CMakeFiles/myapplication.dir/JniShop.cpp.o	f997fa6cc2d0822a
+2	2230	1659865915	CMakeFiles/myapplication.dir/JniVector.cpp.o	6b1f2ce150f1acd
+3	2245	1659865915	CMakeFiles/myapplication.dir/native-lib.cpp.o	60eea30d4d40f022
+5	2320	1659866047	CMakeFiles/myapplication.dir/JniShopManager.cpp.o	97b10594caa43299
+2320	2538	1659866047	/Users/weiyinuo/Documents/VE281/Test/app/build/intermediates/cxx/Debug/444p5f33/obj/x86/libmyapplication.so	6279baa51fb878c5
+15	2672	1659890032	CMakeFiles/myapplication.dir/JniShopManager.cpp.o	97b10594caa43299
+2673	2867	1659890032	/Users/weiyinuo/Documents/VE281/Test/app/build/intermediates/cxx/Debug/444p5f33/obj/x86/libmyapplication.so	6279baa51fb878c5
+6	6264	1659915804	CMakeFiles/myapplication.dir/JniShopManager.cpp.o	97b10594caa43299
+6264	6602	1659915804	/Users/weiyinuo/Documents/VE281/Test/app/build/intermediates/cxx/Debug/444p5f33/obj/x86/libmyapplication.so	6279baa51fb878c5
+4	10268	1659919370	CMakeFiles/myapplication.dir/JniShopManager.cpp.o	97b10594caa43299
+10269	10485	1659919370	/Users/weiyinuo/Documents/VE281/Test/app/build/intermediates/cxx/Debug/444p5f33/obj/x86/libmyapplication.so	6279baa51fb878c5

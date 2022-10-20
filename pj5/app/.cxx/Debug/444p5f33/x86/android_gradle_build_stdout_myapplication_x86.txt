@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/weiyinuo/Documents/VE281/Test/app/.cxx/Debug/444p5f33/x86'
+ninja: no work to do.
